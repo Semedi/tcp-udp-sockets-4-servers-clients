@@ -9,4 +9,4 @@ Dependencies:
 
 To compile any program of this packet:
 
-g++ -g -Wall [name].o -o program
+g++ -g -Wall [name].c -o program
